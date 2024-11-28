@@ -87,7 +87,7 @@ Este plugin utiliza tareas programadas para sincronizar grabaciones y reportes d
 
 ## Créditos y Licencia
 
-- **Autor**: John Rivera Gonzalez
+- **Autor**: John Rivera Gonzalez <johnriveragonzalez7@gmail.com>
 - **Licencia**: [GNU General Public License v3](http://www.gnu.org/copyleft/gpl.html)
 
 Para soporte o contribuciones, visite el repositorio oficial del plugin o contacte al autor.
